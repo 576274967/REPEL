@@ -4,7 +4,7 @@
 
 Introducing the Republican Extension Library (REPEL), a C# package for the conservative engineer.
 
-Software engineering has long been dominated by the whims of liberal programmers while the value sytems of their more intelligent* con-grammer peers have been systematically oppressed. By introducing REPEL into your arsenal you join a master race of englightened conservatives who write code the way god intended, free of the constraints of over-regulated paradigms.
+Software engineering has long been dominated by the whims of liberal programmers while the value sytems of their more intelligent* con-grammer peers have been systematically oppressed. By introducing REPEL into your arsenal you join a master race of enlightened conservatives who write code the way god intended, free of the constraints of over-regulated paradigms.
 
 \**Source: Ask anybody, they'll all tell you, everyone knows it*
 
@@ -26,9 +26,9 @@ if (comfortableTruth) {
 ```
 
 
-### Interrotations
+### Interrogations
 
-LINQ is a whole lot of fun but we all know queries are part of the gay agenda. REPEL replaces the hippie concept of queries with interrogations that grant you the freedom to enforce consequences on data that doesn't conform to your standards. After all, any good toolset requires adaquete profiling tools.
+LINQ is a whole lot of fun but we all know queries are part of the gay agenda. REPEL replaces the hippie concept of queries with interrogations that grant you the freedom to enforce consequences on data that doesn't conform to your standards. After all, any good toolset requires adequate profiling tools.
 
 `Concentrate` ensures that data matching the given profile is transported to a heap of private memory that you can pretend isn't a problem while the rest is returned for you to publicly acknowledge.
 
